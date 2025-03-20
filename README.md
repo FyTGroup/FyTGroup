@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FyTGroup
 - 👀 I’m interested in PHP, Ibexa, SuiteCRM
-- 🌱 I’m currently learning PHP, Ibexa
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me it@FyT.com
 
